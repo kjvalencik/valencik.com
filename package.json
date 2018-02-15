@@ -1,0 +1,48 @@
+{
+  "name": "@vkjv/valencik",
+  "description": "Valencik.com",
+  "version": "1.0.0",
+  "author": "K.J. Valencik <kjvalencik@gmail.com>",
+  "dependencies": {
+    "gatsby": "^1.9.158",
+    "gatsby-link": "^1.6.34",
+    "gatsby-plugin-feed": "^1.3.15",
+    "gatsby-plugin-google-analytics": "^1.0.19",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-sharp": "^1.6.25",
+    "gatsby-plugin-typography": "^1.7.10",
+    "gatsby-remark-copy-linked-files": "^1.5.25",
+    "gatsby-remark-images": "^1.5.37",
+    "gatsby-remark-prismjs": "^1.2.12",
+    "gatsby-remark-responsive-iframe": "^1.4.16",
+    "gatsby-remark-smartypants": "^1.4.10",
+    "gatsby-source-filesystem": "^1.5.11",
+    "gatsby-transformer-remark": "^1.7.28",
+    "gatsby-transformer-sharp": "^1.6.16",
+    "react-responsive-grid": "^0.3.4",
+    "typeface-ubuntu": "0.0.54",
+    "typeface-ubuntu-condensed": "0.0.54",
+    "typography-theme-us-web-design-standards": "^0.16.9"
+  },
+  "devDependencies": {
+    "eslint": "^4.15.0",
+    "eslint-plugin-react": "^7.5.1",
+    "prettier": "^1.10.2"
+  },
+  "homepage": "https://valencik.com",
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjvalencik/valencik.com.git"
+  },
+  "scripts": {
+    "dev": "gatsby develop",
+    "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
+    "format": "prettier --write '*.js' '*.md' 'src/**/*.js' 'src/**/*.md'",
+    "develop": "gatsby develop",
+    "build": "gatsby build"
+  }
+}

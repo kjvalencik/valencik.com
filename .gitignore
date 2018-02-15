@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+public
+.gatsby-context.js
+.DS_Store
+.intermediate-representation/
+.cache/
+yarn.lock
