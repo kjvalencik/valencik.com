@@ -7,6 +7,7 @@ import "typeface-ubuntu-condensed";
 
 // syntax highlighting
 import "prismjs/themes/prism.css";
+import "katex/dist/katex.css";
 
 const prismBackground = "#f5f2f0";
 

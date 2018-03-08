@@ -1,5 +1,5 @@
 {
-  "name": "@vkjv/valencik",
+  "name": "@kjv/valencik",
   "description": "Valencik.com",
   "version": "1.0.0",
   "author": "K.J. Valencik <kjvalencik@gmail.com>",
@@ -13,6 +13,7 @@
     "gatsby-plugin-typography": "^1.7.10",
     "gatsby-remark-copy-linked-files": "^1.5.25",
     "gatsby-remark-images": "^1.5.37",
+    "gatsby-remark-katex": "^1.0.12",
     "gatsby-remark-prismjs": "^1.2.12",
     "gatsby-remark-responsive-iframe": "^1.4.16",
     "gatsby-remark-smartypants": "^1.4.10",
